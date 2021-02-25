@@ -1,0 +1,75 @@
+*{
+ padding:0px;
+ margin:0px;
+}
+body,header,section{
+
+    text-align: center;
+     background-color: gainsboro;
+    margin-top: 25px;
+    padding: 30px;
+    border-spacing: inherit;
+    
+    
+}
+p{
+  padding:8px;
+}
+
+#title{
+    font:bold;
+    font-size:21px;
+    font-family:cursive;
+    width:100%;
+}
+
+#main{
+    margin:20px;
+    border-top-color: aliceblue;
+   
+}
+.wiki_design{
+    font-family: cursive;
+    text-align: right;
+}
+
+
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-div {
+  background: white;
+  padding: 10px;
+  margin: 0;
+}
+#image-caption{
+  padding:5px;
+}
+
+#tribute-info {
+  margin: 15px 0 5px 0;
+}
+#section-description{
+  font-family: cursive;
+}
+#section-info{
+    align-content: center;
+    text-align: left;
+    
+}
+#quote{
+  padding:20px;
+  font: bolder;
+}
+#bottom{
+    font-size: 19px;
+    color: black bold;
+    font-family: cursive;
+}
+
+
